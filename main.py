@@ -17,7 +17,7 @@
    "execution_count": 343,
    "id": "16f16ee1",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [],
    "source": [
@@ -32,7 +32,7 @@
    "execution_count": 344,
    "id": "b8db0982",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
@@ -167,7 +167,7 @@
    "execution_count": 345,
    "id": "b012cef7",
    "metadata": {
-    "scrolled": false
+    "scrolled": False
    },
    "outputs": [
     {
@@ -444,7 +444,7 @@
    "execution_count": 347,
    "id": "92d9fc48",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
@@ -710,7 +710,7 @@
    "execution_count": 348,
    "id": "6093341a",
    "metadata": {
-    "scrolled": false
+    "scrolled": False
    },
    "outputs": [
     {
@@ -773,7 +773,7 @@
    "execution_count": 349,
    "id": "cf51d562",
    "metadata": {
-    "scrolled": false
+    "scrolled": False
    },
    "outputs": [
     {
@@ -1359,7 +1359,7 @@
    "execution_count": 352,
    "id": "072814d0",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
@@ -1635,7 +1635,7 @@
    "execution_count": 353,
    "id": "7270325d",
    "metadata": {
-    "scrolled": false
+    "scrolled": False
    },
    "outputs": [
     {
@@ -1691,7 +1691,7 @@
    "execution_count": 354,
    "id": "727da3de",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
@@ -1955,7 +1955,7 @@
    "execution_count": 356,
    "id": "7bf726c7",
    "metadata": {
-    "scrolled": true
+    "scrolled": True
    },
    "outputs": [
     {
@@ -2219,7 +2219,7 @@
    "execution_count": 357,
    "id": "02812973",
    "metadata": {
-    "scrolled": false
+    "scrolled": False
    },
    "outputs": [
     {
@@ -2266,7 +2266,7 @@
    "execution_count": 358,
    "id": "ddd7ca77",
    "metadata": {
-    "scrolled": false
+    "scrolled": False
    },
    "outputs": [
     {
@@ -2311,7 +2311,7 @@
    "execution_count": 359,
    "id": "d1b160b4",
    "metadata": {
-    "scrolled": false
+    "scrolled": False
    },
    "outputs": [
     {
